@@ -40,7 +40,7 @@ Define the width of the smallest bar line or dot using the module property. This
 
 [Community Forums](https://www.syncfusion.com/forums/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-barcode-generator-github-samples)
 
-[Knowledge base](https://support.syncfusion.com/kb/cross-platforms/category/76?utm_source=github&utm_medium=listing&utm_campaign=maui-barcode-generator-github-samples)
+[Knowledge base](https://support.syncfusion.com/kb?utm_source=github&utm_medium=listing&utm_campaign=maui-barcode-generator-github-samples)
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-barcode-generator-github-samples)
 
